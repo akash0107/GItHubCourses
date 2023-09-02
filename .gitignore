@@ -1,0 +1,24 @@
+### Eclipse ###
+.settings/
+.project
+.classpath
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### Maven ###
+target/
+
+### Selenium ###
+*.log
+*.html
+*.png
+*.jpg
+*.gif
+
+### Other ###
+Thumbs.db
+.DS_Store
